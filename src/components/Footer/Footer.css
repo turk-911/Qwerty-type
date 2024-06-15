@@ -1,0 +1,15 @@
+
+.icons {
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.icons i {
+    font-size: 20px;
+    margin-right: 4px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

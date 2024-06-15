@@ -1,0 +1,14 @@
+.dabba {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+}
+.headerrr{
+    top: 0;
+    padding-top: 20px;
+}
+.footer {
+    padding-bottom: 20px;
+}
